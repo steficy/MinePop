@@ -1,0 +1,16 @@
+name: "Suggest collection"
+description: "Suggest a collection to be added to Mine-Pop!"
+labels: [ "enhancement" ]
+body:
+    -   type: input
+        attributes:
+            label: "Collection you would like to be added to Mine-Pop!"
+            description: "Name a seres/saga for which you would like us to add as a collection."
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: "Specific characters to add"
+            description: "Name and/or provide references to specific characters you would like to see in this collection."
+        validations:
+            required: false

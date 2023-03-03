@@ -1,3 +1,7 @@
+<a href="https://pixeldreamstudios.github.io"><img src="https://www.bisecthosting.com/images/CF/Mine-Pop/BH_Mine-Pop_Header.png"></a>
+
+<a href="https://bisecthosting.com/PixelDream"><img src="https://www.bisecthosting.com/images/CF/Mine-Pop/BH_Mine-Pop_Promo.png"></a>
+
 <picture><img src="https://www.bisecthosting.com/images/CF/Mine-Pop/BH_Mine-Pop_About.png"></picture>
 
 Mine-Pop is a decoration mod which adds Funk-Pop in Minecraft! We are heavily inspired from Minecraft, Anime, Films & TV Shows and more generally Pop-Culture.
